@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.todoItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 15px 0px;
+  background: antiquewhite;
+  padding: 5px 10px;
+  align-items: baseline;
+}
